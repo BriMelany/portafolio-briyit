@@ -63,7 +63,7 @@
 .device--phone .device__frame { position: absolute; inset: 0; height: 100%; }
 
 @media (max-width: 860px) {
-  .hero__role { max-width: 67%; }
+  .hero__role { max-width: 68%; }
   .hero__inner { grid-template-columns: 1fr; padding-top: 32px; min-height: 0; }
   .hero__text { padding-bottom: 0; }
   .hero__visual { justify-self: center; width: min(92%, 460px); margin-top: 16px; }
