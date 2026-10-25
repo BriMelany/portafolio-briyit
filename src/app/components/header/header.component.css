@@ -10,6 +10,8 @@
 .header__burger span { display: block; width: 26px; height: 3px; background: #fff; margin: 5px 0; border-radius: 2px; }
 
 @media (max-width: 860px) {
+  .header__logo img { width: 30px; height: auto; }
+
   .header__burger { display: block; }
   .header__nav {
     position: absolute; top: var(--header-h); left: 0; right: 0;
