@@ -115,7 +115,7 @@
 .modal__close:hover { transform: rotate(90deg) scale(1.08); }
 .modal__title { font-family: var(--font-display); font-weight: 400; font-size: 1.7rem; line-height: 1.1; margin: 0 48px 30px 0; letter-spacing: .01em; }
 .modal__panel h4 { margin: 0 0 12px; font-size: clamp(1.5rem, 4.4vw, 1.9rem); font-weight: 700; line-height: 1.2; text-transform: uppercase; color: var(--blue); }
-.modal__panel p { font-size: 1rem; line-height: 1.6; margin-bottom: 30px; }
+.modal__panel p { font-size: 0.9rem; line-height: 1.6; margin-bottom: 30px; }
 .modal__cta { min-width: 200px; margin-top: 4px; }
 
 /* Escritorio: pop up más ancho */
